@@ -1,6 +1,6 @@
 {
-  "version": "0.1.25",
-  "firmware_url": "https://raw.githubusercontent.com/JYMPCB/cartel-ota-feed/main/versions/Crossfit_banner-0.1.25.bin",
-  "notes": "Release 0.1.25",
-  "sha256": "6c280677d7ccc68815b1d674c6141be7779c2858771e455d98f22240ab60938b"
+  "version": "0.1.26",
+  "firmware_url": "https://raw.githubusercontent.com/JYMPCB/cartel-ota-feed/main/versions/Crossfit_banner-0.1.26.bin",
+  "notes": "Release 0.1.26",
+  "sha256": "54615fe9ead4257c4bc55b38119e264937f56a20022c1eb343f348729b111c4c"
 }
